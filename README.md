@@ -1,7 +1,7 @@
 # Login-Screen
 Audiobook Login Screen.
 
-<img src="assests/Print Web.png" alt="Print Login screen">
+<img src="assets/Print Web.png" alt="Print Login screen">
 
 <img src="assets/Print Mobile.png" alt="Print Login screen mobile">
 
